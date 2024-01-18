@@ -18,7 +18,8 @@
     // const instance2 = new Counter();
     // console.log(instance2.increment());
     console.log(Counter.increment());
-
+    console.log(Counter.increment());
+    
 
 
 
